@@ -1,0 +1,1 @@
+body .wallpaper-host{background:radial-gradient(circle at 80% 20%,#38bdf888,transparent 28%),linear-gradient(135deg,#03233b,#064e69,#082f49)!important} body .wallpaper-host:before{background:radial-gradient(ellipse at 50% 90%,#67e8f944,transparent 50%);animation:wave 5s ease-in-out infinite alternate}@keyframes wave{to{transform:translateY(-3%) scale(1.06)}}

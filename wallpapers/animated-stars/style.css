@@ -1,0 +1,1 @@
+body .wallpaper-host{background:radial-gradient(circle at 20% 10%,#2563eb55,transparent 28%),radial-gradient(circle at 80% 0,#7c3aed55,transparent 32%),linear-gradient(135deg,#020617,#111827)!important} body .wallpaper-host:after{opacity:.18;animation:stars 18s linear infinite}@keyframes stars{to{transform:translateY(42px)}}

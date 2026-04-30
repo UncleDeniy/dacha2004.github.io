@@ -1,0 +1,1 @@
+body .wallpaper-host{background:linear-gradient(135deg,#020617,#141027)!important} body .wallpaper-host:after{background-image:linear-gradient(#22d3ee22 1px,transparent 1px),linear-gradient(90deg,#a855f722 1px,transparent 1px);background-size:58px 58px;opacity:.45;animation:gridmove 10s linear infinite}@keyframes gridmove{to{transform:translateY(58px)}}

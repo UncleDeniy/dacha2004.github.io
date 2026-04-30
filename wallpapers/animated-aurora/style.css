@@ -1,0 +1,1 @@
+body .wallpaper-host{background:linear-gradient(120deg,#021b2d,#052e5f 40%,#34135f 70%,#061322)!important} body .wallpaper-host:before{background:linear-gradient(90deg,transparent,#22d3ee44,#a855f744,transparent);animation:aurora 7s ease-in-out infinite alternate}@keyframes aurora{to{transform:translateX(8%) skewX(-12deg)}}

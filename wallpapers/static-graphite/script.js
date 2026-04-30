@@ -1,0 +1,1 @@
+(function(){/* static wallpaper: no runtime effects needed */})();
