@@ -48,7 +48,7 @@ async function sendLocalNotification(title, body, url = './chat.html') {
   if (reg?.active) {
     reg.active.postMessage({ type: 'SHOW_NOTIFICATION', title, body, url, tag: 'dacha2004-chat' });
   } else {
-    new Notification(title, { body, icon: './assets/img/cover.png' });
+    new Notification(title, { body, icon: './assets/img/logo.png' });
   }
 }
 
